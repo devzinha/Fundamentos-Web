@@ -1,5 +1,5 @@
 # Fundamentos-Web
-Projetos desenvolvidos durante o bloco 3 do BootCamp Generation Brasil referente a HTML, CSS e JavaScript.
+Projetos desenvolvidos durante o bloco 3 do BootCamp Generation Brasil, bloco referente a HTML, CSS e JavaScript.
 
 🎧🦩🎧🦩🎧🦩🎧🦩🎧🦩🎧🦩🎧🦩🎧🦩🎧🦩🎧🦩🎧🦩🎧🦩🎧🦩🎧🦩🎧🦩🎧🦩🎧🦩🎧🦩
 ----------------------------------------------------------------------------------------------------------------------------------------------
