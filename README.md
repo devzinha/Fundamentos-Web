@@ -7,7 +7,8 @@ Projetos desenvolvidos durante o bloco 3 do BootCamp Generation Brasil.
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="center">
-  <img width="500" height="500" src="https://user-images.githubusercontent.com/69607844/124311424-1ca88f80-db44-11eb-80a0-7b0f5debc2b9.jpg">
+  <img width="500" height="500" src="![b981c911-e4f8-4c2a-9c28-d261a908f74b_o-que-e-html](https://user-images.githubusercontent.com/85180010/126205754-919ba57a-a032-4ef9-88d7-7c515152afc9.jpg)
+">
 </p>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
