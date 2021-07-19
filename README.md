@@ -6,7 +6,8 @@ Projetos desenvolvidos durante o bloco 3 do BootCamp Generation Brasil referente
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="center">
-  <img width="500" height="500" src="https://user-images.githubusercontent.com/https://www.google.com/url?sa=i&url=https%3A%2F%2Fneilpatel.com%2Fbr%2Fblog%2Ftags-html%2F&psig=AOvVaw3hcMsKJRK-74qVqnxhVbX3&ust=1626804403550000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjEyvTc7_ECFQAAAAAdAAAAABAD">
+  <img width="500" height="500" src="(https://user-images.githubusercontent.com/85180010/126206830-2ae24656-53aa-4139-bccf-36c382299361.png)"
+
 </p>
 
 
