@@ -11,4 +11,62 @@
     align-items: center;
 }
 
+#menu li {
+
+    display: inline;
+    padding: 15px;
+
+}
+
+#menu li a {
+    text-decoration: none;
+    color: #F8EFBA;
+    font-size: 20px;
+}
+
+#menu li a:hover {
+    color: #F8EFBA;
+    font-size: 25px;
+
+}
+
+.p-30 {
+
+    padding: 30px;
+}
+
+.br-50{
+
+    border-radius: 50%;
+}
+
+.tm-social {
+
+    width: 50px;
+    height: 50px;
+}
+
+.mb-50{
+
+    margin-bottom: 50px;
+}
+
+.ml-50{
+
+    margin-left: 50px;
+
+
+}
+
+body {
+   
+    background-color:#FEA47F;
+    
+}
+
+   
+    
+
+
+
 /*Estilos da página Contato.html*/

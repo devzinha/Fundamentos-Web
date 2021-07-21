@@ -6,11 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contato</title>
 
-    <link rel="stylesheet" href="Assets/Css/style.css">
+    <link rel="stylesheet" href="Assets/Imagens/Css/style.css">
 
 </head>
 <body>
-    <ul>
+    <ul id="menu">
         <li>
              <a href="index.html" >Home</a>
      </li>
@@ -18,23 +18,26 @@
          <a href="Contato.html" >Contato</a>
  </li>
      </ul>
-    <h1>Entre em contato com a Zinha</h1>
-
-    <form action="">
-        <label for="nome">Nome:</label>
-        <input type="text" id="nome">
-        
-        <label for="email">Email:</label>
-        <input type="text" id="email">
-
-        <label for="assunto">Assunto:</label>
-        <textarea name="assunto" id="assunto" cols="50" rows="20"></textarea>
-
-        <button>Enviar</button>
-    </form>
     
-        <h2>Endereço: </h2>
+     <h1 class="center">Entre em contato com a Zinha</h1>
 
+     <div class="container">
+        <form action="">
+            <label for="nome">Nome:</label>
+            <input type="text" id="nome">
+            
+            <label for="email">Email:</label>
+            <input type="text" id="email">
+    
+            <label for="assunto">Assunto:</label>
+            <textarea name="assunto" id="assunto" cols="50" rows="20"></textarea>
+    
+            <button>Enviar</button>
+        </form>
+
+     </div>
+
+     <div class="ml-50">
         <p>Av. Presidente João Café Filho, 1691</p>
         <p>São Bernardo do Campo - SP</p>
 
@@ -48,6 +51,33 @@
         style="border:0;" 
         allowfullscreen="" 
         loading="lazy"></iframe>
-    
+     </div>
+
+     <hr>
+     <footer>
+     
+         <div class="container">
+             <a href="https://www.linkedin.com/in/maria-eduarda-pinheiro-feitosa-652220186/" target="_blank">
+                 <img class="tm-social p-30" src="Assets/Imagens/linkedin.png" 
+                 alt="Logo linkedin">
+              </a>
+     
+              <a href="https://www.instagram.com/zi.nha/"target="_blank">
+                 <img class="tm-social p-30" src="Assets/Imagens/instagram.png" alt="Logo instagram">
+     
+              </a>
+     
+              <a href="https://github.com/devzinha"target="_blank">
+                 <img class="tm-social p-30" src="Assets/Imagens/github.png" alt="Logo github">
+             </a>
+            </div>
+         
+            <p class="center">
+             Todos os direitos reservados: Maria Eduarda Pinheiro &copy
+         </p>
+     </footer>
+
+
+        
 </body>
 </html>
